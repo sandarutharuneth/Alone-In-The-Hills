@@ -1,0 +1,22 @@
+/**
+* @name Alone In The Hills
+* @version 1.0.2
+* @description A cold, dark & Mountain theme.Stay comfy while talking to your friends. ©2021 Royal Gamers.
+* @author Sandaru Tharuneth#2787
+* @authorId 846193169758814228
+* @invite TeRQEPb
+* @donate https://streamlabs.com/royalgamers-4SvQc9
+* @Source https://github.com/DiscordStyles/DarkMatter/
+* @website https://sandarutharuneth12.wixsite.com/website
+*/
+@import url("https://DiscordStyles.github.io/DarkMatter/src/base.css");
+:root {
+--background-image: url('https://wallpaperaccess.com/full/349872.jpg');
+--home-image: url('https://i.pinimg.com/originals/05/91/c7/0591c7d9ed972c451f02e9d52199f1d6.gif');
+--avatar-size: 33px;
+--accent: 37,172,232;
+--accent-alt: 29,101,134;
+--background-solid: #161921;
+--background-solid-dark: #101218;
+--background-solid-darker: #0c0e12;
+}
